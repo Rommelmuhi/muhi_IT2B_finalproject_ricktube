@@ -1,0 +1,278 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<!DOCTYPE ricktube [
+		<!ELEMENT ricktube (season)>
+		<!ELEMENT season (episode)>
+
+		<!ELEMENT episode (#PCDATA)>
+
+		<!ATTLIST season s_number CDATA #REQUIRED>
+		<!ATTLIST episode ep_number CDATA #REQUIRED>
+]>
+<ricktube>
+	<season s_number="1">
+		<episode ep_number="1">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+
+		</episode>
+		<episode ep_number="2">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="3">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="4">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="5">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="6">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="7">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="8">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="9">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="10">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+	</season>
+	<season s_number="2">
+		<episode ep_number="1">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+
+		</episode>
+		<episode ep_number="2">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="3">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="4">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="5">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="6">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="7">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="8">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="9">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="10">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+	</season>
+	<season s_number="3">
+		<episode ep_number="1">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+
+		</episode>
+		<episode ep_number="2">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="3">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="4">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="5">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="6">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="7">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="8">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="9">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="10">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+	</season>
+	<season s_number="4">
+		<episode ep_number="1">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+
+		</episode>
+		<episode ep_number="2">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="3">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="4">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="5">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="6">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="7">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="8">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="9">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="10">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+	</season>
+	<season s_number="5">
+		<episode ep_number="1">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+
+		</episode>
+		<episode ep_number="2">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="3">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="4">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="5">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="6">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="7">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="8">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="9">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+		<episode ep_number="10">
+			<video>Video here..</video>
+			<date-released>MM/DD/YYYY</date-released>
+			<plot>season-plot</plot>
+		</episode>
+	</season>
+</ricktube>
